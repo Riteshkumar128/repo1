@@ -18,3 +18,9 @@ az storage account create --name riteshstorage12345 --resource-group ritesh-rg -
 az resource list --resource-group ritesh-rg --output table
 az group delete --name ritesh-rg --yes --no-wait
 
+
+
+
+
+
+
